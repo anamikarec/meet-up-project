@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https://github.com/anamikarec/meet-up-project.git/static/css/main.c7061a19.css",
+    "main.js": "/https://github.com/anamikarec/meet-up-project.git/static/js/main.e4e4a1f6.js",
+    "index.html": "/https://github.com/anamikarec/meet-up-project.git/index.html",
+    "main.c7061a19.css.map": "/https://github.com/anamikarec/meet-up-project.git/static/css/main.c7061a19.css.map",
+    "main.e4e4a1f6.js.map": "/https://github.com/anamikarec/meet-up-project.git/static/js/main.e4e4a1f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7061a19.css",
+    "static/js/main.e4e4a1f6.js"
+  ]
+}
